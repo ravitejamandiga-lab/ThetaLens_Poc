@@ -1,0 +1,2 @@
+"""Sentiment provider adapters."""
+
